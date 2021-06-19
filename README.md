@@ -5,7 +5,7 @@ Membuat Aplikasi Info Pendakian Gunung dengan Android Studio
 https://youtu.be/WKOfCHsdokY
 
 # Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2021/05/Tutorial-Membuat-Aplikasi-Resep-Minuman-dengan-Android-Studio.html
+https://rivaldi48.blogspot.com/2021/06/tutorial-membuat-aplikasi-info-pendakian-gunung-dengan-android-studio.html
 
 <img src="https://1.bp.blogspot.com/-z5fuBHvqNSo/YMmTIyhHJwI/AAAAAAAAH-M/y4s3BAXXQFQVFfxoFWwjntrMU_LlUzNiACLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BInfo%2BPendakian%2BGunung%2Bdengan%2BAndroid%2BStudio.png" data-canonical-src="https://1.bp.blogspot.com/-z5fuBHvqNSo/YMmTIyhHJwI/AAAAAAAAH-M/y4s3BAXXQFQVFfxoFWwjntrMU_LlUzNiACLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BInfo%2BPendakian%2BGunung%2Bdengan%2BAndroid%2BStudio.png" style="max-width:100%;">
 
